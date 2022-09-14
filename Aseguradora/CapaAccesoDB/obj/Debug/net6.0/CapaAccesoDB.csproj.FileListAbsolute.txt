@@ -1,0 +1,12 @@
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\bin\Debug\net6.0\CapaAccesoDB.deps.json
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\bin\Debug\net6.0\CapaAccesoDB.dll
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\bin\Debug\net6.0\CapaAccesoDB.pdb
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\obj\Debug\net6.0\CapaAccesoDB.csproj.AssemblyReference.cache
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\obj\Debug\net6.0\CapaAccesoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\obj\Debug\net6.0\CapaAccesoDB.AssemblyInfoInputs.cache
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\obj\Debug\net6.0\CapaAccesoDB.AssemblyInfo.cs
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\obj\Debug\net6.0\CapaAccesoDB.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\obj\Debug\net6.0\CapaAccesoDB.dll
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\obj\Debug\net6.0\refint\CapaAccesoDB.dll
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\obj\Debug\net6.0\CapaAccesoDB.pdb
+C:\Users\SantiagoPC\source\repos\Aseguradora\CapaAccesoDB\obj\Debug\net6.0\ref\CapaAccesoDB.dll

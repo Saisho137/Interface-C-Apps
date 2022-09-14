@@ -1,0 +1,12 @@
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\bin\Debug\net6.0\CapaAccesoDatos.deps.json
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\bin\Debug\net6.0\CapaAccesoDatos.dll
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\bin\Debug\net6.0\CapaAccesoDatos.pdb
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\obj\Debug\net6.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\obj\Debug\net6.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\obj\Debug\net6.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\obj\Debug\net6.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\obj\Debug\net6.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\obj\Debug\net6.0\CapaAccesoDatos.dll
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\obj\Debug\net6.0\refint\CapaAccesoDatos.dll
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\obj\Debug\net6.0\CapaAccesoDatos.pdb
+C:\Users\SantiagoPC\source\repos\TallerRepaso\CapaAccesoDatos\obj\Debug\net6.0\ref\CapaAccesoDatos.dll
